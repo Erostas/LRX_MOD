@@ -190,5 +190,5 @@ opfor_recyclable = [
 	["gm_gc_bgs_mi2us",5,round (200 / GRLIB_recycling_percentage),15],
 	["gm_pl_airforce_mi2urpg",5,round (300 / GRLIB_recycling_percentage),15],
 	["gm_pl_airforce_mi2urp",5,round (250 / GRLIB_recycling_percentage),15],
-	["gm_pl_airforce_mi2urn",5,round (200 / GRLIB_recycling_percentage),10],
+	["gm_pl_airforce_mi2urn",5,round (200 / GRLIB_recycling_percentage),10]
 ];
